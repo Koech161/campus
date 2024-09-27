@@ -66,7 +66,7 @@ const Home = () => {
       </div>
 
       <div className='text-center justify-content-center' id='program' style={{ marginTop: '40px' }}>
-        <h3 className='text-primary'>OUR PROGRAM</h3>
+        <h5 className='text-primary'>OUR PROGRAM</h5>
         <h1>What We Offer</h1>
         <div className='row g-3'>
           <div className='col-md-4 position-relative'>
